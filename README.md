@@ -1,6 +1,3 @@
 
-# Welcome to LearnCS8 Resume Website
-
-This is an template website for you to fill in your own information. Follow the instructions at https://learncs8.com
-
-Special thanks to the open source bootstrap libraries that made this website possible. 
+Hi! My name is Arely Alarcon, I was born in Los Angeles, CA and I identify as nonbinary folx. My favorite hobbies is to read court briefs and to play the tenor saxophone.  I find court briefs the source of how society functions by restricting conduct to protect certain rights and issues at stake. For this reason, I decided to focus my interests and career path in my current major, Political Science.
+![Description of Image] (img/screenshot.jpg) 
